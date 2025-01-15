@@ -4,7 +4,7 @@
     align-items: flex-start; 
     padding: 20px;
     text-align: left; 
-    background-image: url('/trial1.jpg');
+    background-image: url('./trial1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
